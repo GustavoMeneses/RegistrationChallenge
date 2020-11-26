@@ -8,6 +8,8 @@ Banco Postgres
 * usuário: postgres
 * senha: [sem senha]
 
+Java 8
+
 ### Instalação
 
 Clonar o repositório e seguir os passos:
