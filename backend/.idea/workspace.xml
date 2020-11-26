@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86a58788-cc5a-472c-8814-bfd3bed36576" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="develop-economia" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1grpgKQf1HsADnxLn2iDAvH1KuT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;postgresql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.registration.model.enums" />
+      <recent name="com.registration.model" />
+      <recent name="com.registration.service" />
+      <recent name="com.registration.rest" />
+      <recent name="com.registration.repository" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/db/scripts/release-01" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.registration.RegistrationBackendApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86a58788-cc5a-472c-8814-bfd3bed36576" name="Default Changelist" comment="" />
+      <created>1598882676008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598882676008</updated>
+      <workItem from="1598882680183" duration="115000" />
+      <workItem from="1598883444285" duration="3488000" />
+      <workItem from="1598900807854" duration="90000" />
+      <workItem from="1598984114209" duration="8356000" />
+      <workItem from="1599051115475" duration="5748000" />
+      <workItem from="1599057985436" duration="6558000" />
+      <workItem from="1599102036716" duration="24344000" />
+      <workItem from="1599223660670" duration="8550000" />
+      <workItem from="1599482427311" duration="6030000" />
+      <workItem from="1599526999013" duration="23879000" />
+      <workItem from="1599652973018" duration="9659000" />
+      <workItem from="1599741249630" duration="1551000" />
+      <workItem from="1599764089882" duration="826000" />
+      <workItem from="1599831676708" duration="13628000" />
+      <workItem from="1600087700114" duration="1140000" />
+      <workItem from="1600091179015" duration="7452000" />
+      <workItem from="1600180496355" duration="643000" />
+      <workItem from="1600202300967" duration="1312000" />
+      <workItem from="1600267022459" duration="794000" />
+      <workItem from="1600282183664" duration="11840000" />
+      <workItem from="1600312030848" duration="20013000" />
+      <workItem from="1600432676988" duration="1881000" />
+      <workItem from="1600440758589" duration="369000" />
+      <workItem from="1600450914061" duration="6868000" />
+      <workItem from="1600689457697" duration="2643000" />
+      <workItem from="1600778911071" duration="5317000" />
+      <workItem from="1600786605683" duration="8235000" />
+      <workItem from="1600866552686" duration="775000" />
+      <workItem from="1602275068736" duration="107000" />
+      <workItem from="1602789604077" duration="800000" />
+      <workItem from="1606179923170" duration="321000" />
+      <workItem from="1606180373873" duration="1992000" />
+      <workItem from="1606182472101" duration="4134000" />
+      <workItem from="1606188367594" duration="194000" />
+      <workItem from="1606188659990" duration="1000" />
+      <workItem from="1606188676149" duration="77000" />
+      <workItem from="1606188756020" duration="5062000" />
+      <workItem from="1606238107424" duration="21133000" />
+      <workItem from="1606324658536" duration="25302000" />
+      <workItem from="1606409453977" duration="143000" />
+    </task>
+    <task id="LOCAL-00020" summary="feat(parceiro): cria endpoint de listagem de parceiro e filtros">
+      <created>1599231154395</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1599231154395</updated>
+    </task>
+    <task id="LOCAL-00021" summary="feat(parceiro): filtro de cnpj">
+      <created>1599242269028</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1599242269028</updated>
+    </task>
+    <task id="LOCAL-00022" summary="feat(parceiro): cria endpoint de cadastro e atualização">
+      <created>1599244230209</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1599244230209</updated>
+    </task>
+    <task id="LOCAL-00023" summary="fix(parceiro): corrige cadastro de parceiro">
+      <created>1599490170011</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1599490170011</updated>
+    </task>
+    <task id="LOCAL-00024" summary="feat(instrumento): cria endpoint de instrumento">
+      <created>1599528137722</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1599528137722</updated>
+    </task>
+    <task id="LOCAL-00025" summary="feat(parceiro): adiciona ordenação">
+      <created>1599573829341</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1599573829341</updated>
+    </task>
+    <task id="LOCAL-00026" summary="fix(instrumento): ajusta atributo">
+      <created>1599575697701</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1599575697701</updated>
+    </task>
+    <task id="LOCAL-00027" summary="feat(instrumento): adiciona filtros">
+      <created>1599579384130</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1599579384130</updated>
+    </task>
+    <task id="LOCAL-00028" summary="feat(parceiro): mapeia campos">
+      <created>1599579533212</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1599579533212</updated>
+    </task>
+    <task id="LOCAL-00029" summary="feat(elo): ordena por status">
+      <created>1599834253939</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1599834253939</updated>
+    </task>
+    <task id="LOCAL-00030" summary="feat(parceiro): reorganiza ordenação">
+      <created>1599848228229</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1599848228229</updated>
+    </task>
+    <task id="LOCAL-00031" summary="feat(eixo): adiciona coluna de arquivo">
+      <created>1599849706385</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1599849706385</updated>
+    </task>
+    <task id="LOCAL-00032" summary="feat(*): remapeia entidades">
+      <created>1599853771780</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1599853771780</updated>
+    </task>
+    <task id="LOCAL-00033" summary="feat(instrumento): filtro por ano">
+      <created>1599854034747</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1599854034747</updated>
+    </task>
+    <task id="LOCAL-00034" summary="insere coluna com descrição do arquivo">
+      <created>1600105337126</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1600105337126</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Trata arquivos sem descrição">
+      <created>1600105735085</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1600105735085</updated>
+    </task>
+    <task id="LOCAL-00036" summary="cria endpoint de cadastro de relação instrumento-eixo">
+      <created>1600110908577</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1600110908577</updated>
+    </task>
+    <task id="LOCAL-00037" summary="cria endpoint para agrupar parceiros por elo">
+      <created>1600298076373</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1600298076373</updated>
+    </task>
+    <task id="LOCAL-00038" summary="ajuste">
+      <created>1600312414153</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1600312414153</updated>
+    </task>
+    <task id="LOCAL-00039" summary="melhoria">
+      <created>1600344314805</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1600344314805</updated>
+    </task>
+    <task id="LOCAL-00040" summary="fix(parceiro): ajusta construtor">
+      <created>1600346044619</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1600346044619</updated>
+    </task>
+    <task id="LOCAL-00041" summary="feat(parceiro): adiciona informação de cor do elo">
+      <created>1600346490133</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1600346490133</updated>
+    </task>
+    <task id="LOCAL-00042" summary="feat(termo-adesao): cria modelo de termo de adesao">
+      <created>1600367383054</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1600367383054</updated>
+    </task>
+    <task id="LOCAL-00043" summary="feat(termo-adesao): cria endpoint">
+      <created>1600370027590</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1600370027590</updated>
+    </task>
+    <task id="LOCAL-00044" summary="feat(parceiro): cria filtros por cnpj e siorg">
+      <created>1600370650700</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1600370650700</updated>
+    </task>
+    <task id="LOCAL-00045" summary="feat(parceiro-instrumento): cria endpoint para listar instrumentos do parceiro">
+      <created>1600519769237</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1600519769237</updated>
+    </task>
+    <task id="LOCAL-00046" summary="feat(parceiro-instrumento): mapeia o instrumento da relação parceiro-instrumento">
+      <created>1600692811060</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1600692811060</updated>
+    </task>
+    <task id="LOCAL-00047" summary="feat(situacao): altera enum para letra minuscula">
+      <created>1600784471668</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1600784471668</updated>
+    </task>
+    <task id="LOCAL-00048" summary="feat(termo-adesao): permite ordenação da lista de termos">
+      <created>1600798959433</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1600798959433</updated>
+    </task>
+    <task id="LOCAL-00049" summary="feat(termo-adesao): adiciona filtros">
+      <created>1600805473186</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1600805473186</updated>
+    </task>
+    <task id="LOCAL-00050" summary="gitignore">
+      <created>1606188422811</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1606188422812</updated>
+    </task>
+    <task id="LOCAL-00051" summary="cria model de perfil">
+      <created>1606245576269</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1606245576269</updated>
+    </task>
+    <task id="LOCAL-00052" summary="cria modelos">
+      <created>1606246139343</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1606246139343</updated>
+    </task>
+    <task id="LOCAL-00053" summary="endpoint de pessoa">
+      <created>1606247293367</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1606247293367</updated>
+    </task>
+    <task id="LOCAL-00054" summary="endpoint de endereço">
+      <created>1606248024017</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1606248024017</updated>
+    </task>
+    <task id="LOCAL-00055" summary="endpoint de email">
+      <created>1606248549426</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1606248549426</updated>
+    </task>
+    <task id="LOCAL-00056" summary="endpoint de telefone">
+      <created>1606248885347</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1606248885347</updated>
+    </task>
+    <task id="LOCAL-00057" summary="endpoint de relação entre pessoa e email">
+      <created>1606249309071</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1606249309071</updated>
+    </task>
+    <task id="LOCAL-00058" summary="endpoint de relação entre pessoa e telefone">
+      <created>1606249508908</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1606249508908</updated>
+    </task>
+    <task id="LOCAL-00059" summary="adiciona sequence a model">
+      <created>1606251211750</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1606251211750</updated>
+    </task>
+    <task id="LOCAL-00060" summary="adiciona sequence as models">
+      <created>1606251481280</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1606251481280</updated>
+    </task>
+    <task id="LOCAL-00061" summary="relaciona emails e telefone a pessoa">
+      <created>1606253037406</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1606253037406</updated>
+    </task>
+    <task id="LOCAL-00062" summary="adiciona PUT e DELETE">
+      <created>1606274291034</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1606274291034</updated>
+    </task>
+    <task id="LOCAL-00063" summary="consulta cep">
+      <created>1606326589898</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1606326589898</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Deleção em cascata">
+      <created>1606339312467</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1606339312467</updated>
+    </task>
+    <task id="LOCAL-00065" summary="tipo de telefone">
+      <created>1606368034669</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1606368034669</updated>
+    </task>
+    <task id="LOCAL-00066" summary="adiciona tipo de telefone">
+      <created>1606370166815</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1606370166815</updated>
+    </task>
+    <task id="LOCAL-00067" summary="deleção de telefone">
+      <created>1606379992613</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1606379992613</updated>
+    </task>
+    <task id="LOCAL-00068" summary="deleção de email">
+      <created>1606393590042</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1606393590043</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat(parceiro): cria filtros por cnpj e siorg" />
+    <MESSAGE value="feat(parceiro-instrumento): cria endpoint para listar instrumentos do parceiro" />
+    <MESSAGE value="feat(parceiro-instrumento): mapeia o instrumento da relação parceiro-instrumento" />
+    <MESSAGE value="feat(situacao): altera enum para letra minuscula" />
+    <MESSAGE value="feat(termo-adesao): permite ordenação da lista de termos" />
+    <MESSAGE value="feat(termo-adesao): adiciona filtros" />
+    <MESSAGE value="gitignore" />
+    <MESSAGE value="cria model de perfil" />
+    <MESSAGE value="cria modelos" />
+    <MESSAGE value="endpoint de pessoa" />
+    <MESSAGE value="endpoint de endereço" />
+    <MESSAGE value="endpoint de email" />
+    <MESSAGE value="endpoint de telefone" />
+    <MESSAGE value="endpoint de relação entre pessoa e email" />
+    <MESSAGE value="endpoint de relação entre pessoa e telefone" />
+    <MESSAGE value="adiciona sequence a model" />
+    <MESSAGE value="adiciona sequence as models" />
+    <MESSAGE value="relaciona emails e telefone a pessoa" />
+    <MESSAGE value="adiciona PUT e DELETE" />
+    <MESSAGE value="consulta cep" />
+    <MESSAGE value="Deleção em cascata" />
+    <MESSAGE value="tipo de telefone" />
+    <MESSAGE value="adiciona tipo de telefone" />
+    <MESSAGE value="deleção de telefone" />
+    <MESSAGE value="deleção de email" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleção de email" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="596" y="382" width="448" height="204" key="#Assign_Data_Sources" timestamp="1606238723052">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="596" y="382" width="448" height="204" key="#Assign_Data_Sources/0.23.1680.1027@0.23.1680.1027" timestamp="1606238723052" />
+    <state x="304" y="190" width="1071" height="860" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606409572729">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="304" y="190" width="1071" height="860" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1606409572729" />
+    <state x="577" y="353" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606409554921">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="577" y="353" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1606409554921" />
+    <state x="201" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606238636778">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="201" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1606238636778" />
+    <state x="578" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606181683844">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="578" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1606181683844" />
+    <state x="402" y="127" key="CommitChangelistDialog2" timestamp="1606393589917">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="402" y="127" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1606393589917" />
+    <state x="100" y="123" width="1480" height="827" key="DiffContextDialog" timestamp="1606196190670">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="100" y="123" width="1480" height="827" key="DiffContextDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1606196190670" />
+    <state width="1638" height="268" key="GridCell.Tab.0.bottom" timestamp="1606409337093">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="268" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1606409337093" />
+    <state width="1638" height="268" key="GridCell.Tab.0.center" timestamp="1606409337092">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="268" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1606409337092" />
+    <state width="1638" height="268" key="GridCell.Tab.0.left" timestamp="1606409337091">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="268" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1606409337091" />
+    <state width="1638" height="268" key="GridCell.Tab.0.right" timestamp="1606409337092">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="268" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1606409337092" />
+    <state width="1638" height="268" key="GridCell.Tab.1.bottom" timestamp="1606409337095">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="268" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1606409337095" />
+    <state width="1638" height="268" key="GridCell.Tab.1.center" timestamp="1606409337094">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="268" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1606409337094" />
+    <state width="1638" height="268" key="GridCell.Tab.1.left" timestamp="1606409337093">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="268" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1606409337093" />
+    <state width="1638" height="268" key="GridCell.Tab.1.right" timestamp="1606409337094">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="268" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1606409337094" />
+    <state width="1638" height="268" key="GridCell.Tab.2.bottom" timestamp="1606409337097">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="268" key="GridCell.Tab.2.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1606409337097" />
+    <state width="1638" height="268" key="GridCell.Tab.2.center" timestamp="1606409337096">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="268" key="GridCell.Tab.2.center/0.23.1680.1027@0.23.1680.1027" timestamp="1606409337096" />
+    <state width="1638" height="268" key="GridCell.Tab.2.left" timestamp="1606409337095">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="268" key="GridCell.Tab.2.left/0.23.1680.1027@0.23.1680.1027" timestamp="1606409337095" />
+    <state width="1638" height="268" key="GridCell.Tab.2.right" timestamp="1606409337097">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="268" key="GridCell.Tab.2.right/0.23.1680.1027@0.23.1680.1027" timestamp="1606409337097" />
+    <state width="248" height="471" key="HiddenNamespacesPopup" timestamp="1606238319786">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="248" height="471" key="HiddenNamespacesPopup/0.23.1680.1027@0.23.1680.1027" timestamp="1606238319786" />
+    <state x="586" y="246" key="RollbackChangesDialog" timestamp="1606238688202">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="586" y="246" key="RollbackChangesDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1606238688202" />
+    <state x="341" y="175" key="SettingsEditor" timestamp="1606188740433">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="341" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1606188740433" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1606393592768">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1606393592768" />
+    <state x="638" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606238107547">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="638" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.1027@0.23.1680.1027" timestamp="1606238107547" />
+    <state x="505" y="250" key="search.everywhere.popup" timestamp="1606273832962">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="505" y="250" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1606273832962" />
+  </component>
+</project>
