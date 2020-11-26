@@ -48,7 +48,9 @@ $ npm start
 Acesso já configurado nos scripts do banco
 
 usuário: admin
+
 senha: 123456
 
 usuário: comum
+
 senha: 123456
