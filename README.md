@@ -32,6 +32,11 @@ $ mvn compile
 $ mvn install
 ```
 
+Configuração para rodar o java no intelliJ IDEA
+
+![slide](img/intellij_config.jpeg)
+
+
 Instalar os pacotes via npm ou yarn
 
 ```sh
