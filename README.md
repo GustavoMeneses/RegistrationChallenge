@@ -2,9 +2,9 @@
 
 ### Documentação
 
-MER - mer.pdf
+* MER - mer.pdf
 
-Endpoints (Postman) - registration_application.postman_collection.json
+* Endpoints (Postman) - registration_application.postman_collection.json
 
 ### Pré-requisitos
 
