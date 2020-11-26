@@ -1,5 +1,11 @@
 # RegistrationChallenge
 
+### Documentação
+
+MER - mer.pdf
+
+Endpoints (Postman) - registration_application.postman_collection.json
+
 ### Pré-requisitos
 
 Banco Postgres
