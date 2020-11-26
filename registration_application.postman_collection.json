@@ -1,0 +1,305 @@
+{
+	"info": {
+		"_postman_id": "a45062c5-75dc-4a87-ba4b-fc7114000656",
+		"name": "registration application",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "create address",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ7XCJpZFwiOjEsXCJsb2dpblwiOlwiYWRtaW5cIixcInBhc3N3b3JkXCI6bnVsbCxcInByb2ZpbGVcIjp7XCJpZFwiOjEsXCJwcm9maWxlXCI6XCJhZG1pblwifX0iLCJleHAiOjE2Mzc4NjA4Nzh9.Y32ZrKR2X2Y51ur6NA4KsPhTSf1FM2ibfdChTYEKeXruwsnlkyHV_bnsW9eF0VKXI4YuWUylJiCHA6wYvLu9bg",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"zipCode\": \"7300000\",\n    \"publicPlace\": \"Plano Piloto\",\n    \"neighborhood\": \"Asa Norte\",\n    \"city\": \"Brasília\",\n    \"fu\": \"DF\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8082/api/address",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8082",
+					"path": [
+						"api",
+						"address"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "login",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"login\": \"admin\",\n    \"password\": \"123456\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8082/api/login",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8082",
+					"path": [
+						"api",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "create person",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ7XCJpZFwiOjEsXCJsb2dpblwiOlwiYWRtaW5cIixcInBhc3N3b3JkXCI6bnVsbCxcInByb2ZpbGVcIjp7XCJpZFwiOjEsXCJwcm9maWxlXCI6XCJhZG1pblwifX0iLCJleHAiOjE2Mzc4NDcyOTl9.6FD2X9ofWVIOjWuwDRFBvuZjw0k3e5WDTTGY6g75SZ7X2-uMc-G8YeHZQUueflffsL7EngyCTDxK61aOelSvqQ",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"João da Silva\",\n    \"socialSecurityNumber\": \"12345678901\",\n    \"address\":{\n        \"id\": 1\n    }\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8082/api/person",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8082",
+					"path": [
+						"api",
+						"person"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "create email",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ7XCJpZFwiOjEsXCJsb2dpblwiOlwiYWRtaW5cIixcInBhc3N3b3JkXCI6bnVsbCxcInByb2ZpbGVcIjp7XCJpZFwiOjEsXCJwcm9maWxlXCI6XCJhZG1pblwifX0iLCJleHAiOjE2Mzc4NDcyOTl9.6FD2X9ofWVIOjWuwDRFBvuZjw0k3e5WDTTGY6g75SZ7X2-uMc-G8YeHZQUueflffsL7EngyCTDxK61aOelSvqQ",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"email\": \"joao@teste.com\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8082/api/email",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8082",
+					"path": [
+						"api",
+						"email"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "create person-email",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ7XCJpZFwiOjEsXCJsb2dpblwiOlwiYWRtaW5cIixcInBhc3N3b3JkXCI6bnVsbCxcInByb2ZpbGVcIjp7XCJpZFwiOjEsXCJwcm9maWxlXCI6XCJhZG1pblwifX0iLCJleHAiOjE2Mzc4NDcyOTl9.6FD2X9ofWVIOjWuwDRFBvuZjw0k3e5WDTTGY6g75SZ7X2-uMc-G8YeHZQUueflffsL7EngyCTDxK61aOelSvqQ",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"email\": {\n        \"id\": 1\n    },\n    \"person\": {\n        \"id\": 1\n    }\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8082/api/person-email",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8082",
+					"path": [
+						"api",
+						"person-email"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "create phone",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ7XCJpZFwiOjEsXCJsb2dpblwiOlwiYWRtaW5cIixcInBhc3N3b3JkXCI6bnVsbCxcInByb2ZpbGVcIjp7XCJpZFwiOjEsXCJwcm9maWxlXCI6XCJhZG1pblwifX0iLCJleHAiOjE2Mzc4NDcyOTl9.6FD2X9ofWVIOjWuwDRFBvuZjw0k3e5WDTTGY6g75SZ7X2-uMc-G8YeHZQUueflffsL7EngyCTDxK61aOelSvqQ",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"phone\": \"989783472\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8082/api/phone",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8082",
+					"path": [
+						"api",
+						"phone"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "create person-phone",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ7XCJpZFwiOjEsXCJsb2dpblwiOlwiYWRtaW5cIixcInBhc3N3b3JkXCI6bnVsbCxcInByb2ZpbGVcIjp7XCJpZFwiOjEsXCJwcm9maWxlXCI6XCJhZG1pblwifX0iLCJleHAiOjE2Mzc4NDcyOTl9.6FD2X9ofWVIOjWuwDRFBvuZjw0k3e5WDTTGY6g75SZ7X2-uMc-G8YeHZQUueflffsL7EngyCTDxK61aOelSvqQ",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"phone\": {\n        \"id\": 1\n    },\n    \"person\": {\n        \"id\": 1\n    }\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8082/api/person-phone",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8082",
+					"path": [
+						"api",
+						"person-phone"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get cep",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ7XCJpZFwiOjEsXCJsb2dpblwiOlwiYWRtaW5cIixcInBhc3N3b3JkXCI6bnVsbCxcInByb2ZpbGVcIjp7XCJpZFwiOjEsXCJwcm9maWxlXCI6XCJhZG1pblwifX0iLCJleHAiOjE2Mzc4NjA4Nzh9.Y32ZrKR2X2Y51ur6NA4KsPhTSf1FM2ibfdChTYEKeXruwsnlkyHV_bnsW9eF0VKXI4YuWUylJiCHA6wYvLu9bg",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8082/api/address/cep/01001000",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8082",
+					"path": [
+						"api",
+						"address",
+						"cep",
+						"01001000"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
